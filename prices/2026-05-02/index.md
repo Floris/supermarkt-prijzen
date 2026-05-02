@@ -1,6 +1,6 @@
 # Supermarktprijzen - 2026-05-02
 
-Gegenereerd op 02-05-2026, 21:08 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+Gegenereerd op 02-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
 
 ## Overzicht
 
@@ -36,9 +36,9 @@ Gegenereerd op 02-05-2026, 21:08 vanuit [pricewatch.droppert.dev](https://pricew
 
 | Winkel | Producten | Laatst gezien | Laatste run |
 | --- | ---: | --- | --- |
-| Albert Heijn | 538 | 02-05-2026, 21:08 | SUCCEEDED |
-| Albert Heijn Belgie | 344 | 02-05-2026, 21:07 | SUCCEEDED |
-| Dirk | 223 | 02-05-2026, 21:08 | SUCCEEDED |
-| Jumbo | 397 | 02-05-2026, 21:08 | SUCCEEDED |
+| Albert Heijn | 538 | 02-05-2026, 21:13 | SUCCEEDED |
+| Albert Heijn Belgie | 344 | 02-05-2026, 21:12 | SUCCEEDED |
+| Dirk | 223 | 02-05-2026, 21:13 | SUCCEEDED |
+| Jumbo | 397 | 02-05-2026, 21:13 | SUCCEEDED |
 | Lidl | 8 | 02-05-2026, 21:01 | SUCCEEDED |
 | Plus | 13 | 02-05-2026, 21:01 | SUCCEEDED |

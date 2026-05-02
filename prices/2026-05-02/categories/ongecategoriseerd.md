@@ -1,6 +1,6 @@
 # Ongecategoriseerd - 2026-05-02
 
-Gegenereerd op 02-05-2026, 21:08 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+Gegenereerd op 02-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
 
 [Terug naar dagindex](../index.md)
 
@@ -180,21 +180,21 @@ Laagste prijs: EUR 4,50 bij Albert Heijn. Laagste eenheidsprijs: EUR 12,86. Wink
 
 ## Bertolli Bio originale extra vierge olijfolie
 
-Laagste prijs: EUR 7,34 bij Albert Heijn. Laagste eenheidsprijs: EUR 14,68. Winkels: 3. Laatste update: 02-05-2026, 18:07.
+Laagste prijs: EUR 7,34 bij Albert Heijn. Laagste eenheidsprijs: EUR 14,68. Winkels: 3. Laatste update: 02-05-2026, 21:11.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| Bertolli Bertolli Bio originale extra vierge olijfolie 0,5 l | 0.5 l | [Albert Heijn (actie)](https://www.ah.nl/producten/product/wi429755) | EUR 7,34 | EUR 14,68 | 02-05-2026, 18:07 |
-| Bertolli Bertolli Bio originale extra vierge olijfolie 0,5 l | 0.5 l | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi429755) | EUR 8,99 | EUR 17,98 | 02-05-2026, 18:07 |
-| Bertolli Bertolli Bio Originale extra vierge olijfolie 500 ml | 0.5 l | [Jumbo](https://www.jumbo.com/producten/bertolli-bio-originale-extra-vierge-olijfolie-197641STK) | EUR 9,79 | EUR 19,58 | 02-05-2026, 18:07 |
+| Bertolli Bertolli Bio originale extra vierge olijfolie 0,5 l | 0.5 l | [Albert Heijn (actie)](https://www.ah.nl/producten/product/wi429755) | EUR 7,34 | EUR 14,68 | 02-05-2026, 21:11 |
+| Bertolli Bertolli Bio originale extra vierge olijfolie 0,5 l | 0.5 l | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi429755) | EUR 8,99 | EUR 17,98 | 02-05-2026, 21:11 |
+| Bertolli Bertolli Bio Originale extra vierge olijfolie 500 ml | 0.5 l | [Jumbo](https://www.jumbo.com/producten/bertolli-bio-originale-extra-vierge-olijfolie-197641STK) | EUR 9,79 | EUR 19,58 | 02-05-2026, 21:11 |
 
 ## Biologisch Rucola 40 g 40 GRAM
 
-Laagste prijs: EUR 1,39 bij Jumbo. Laagste eenheidsprijs: EUR 34,75. Winkels: 1. Laatste update: 02-05-2026, 18:09.
+Laagste prijs: EUR 1,39 bij Jumbo. Laagste eenheidsprijs: EUR 34,75. Winkels: 1. Laatste update: 02-05-2026, 21:15.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| Jumbo Jumbo Biologisch Rucola 40 g 40 GRAM | - | [Jumbo](https://www.jumbo.com/producten/jumbo-biologisch-rucola-40-g-528125ZK) | EUR 1,39 | EUR 34,75 | 02-05-2026, 18:09 |
+| Jumbo Jumbo Biologisch Rucola 40 g 40 GRAM | - | [Jumbo](https://www.jumbo.com/producten/jumbo-biologisch-rucola-40-g-528125ZK) | EUR 1,39 | EUR 34,75 | 02-05-2026, 21:15 |
 
 ## Bolletje Vezelrijk boeren beschuit meerzaden
 
@@ -457,19 +457,19 @@ Laagste prijs: EUR 2,49 bij Albert Heijn Belgie. Laagste eenheidsprijs: EUR 7,11
 
 ## Hak Rode Kool met Stukjes Peer
 
-Laagste prijs: EUR 2,29 bij Jumbo. Laagste eenheidsprijs: EUR 6,45. Winkels: 1. Laatste update: 02-05-2026, 21:08.
+Laagste prijs: EUR 2,29 bij Jumbo. Laagste eenheidsprijs: EUR 6,45. Winkels: 1. Laatste update: 02-05-2026, 21:09.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| Hak Hak Rode Kool met Stukjes Peer 355 g | 0.355 kg | [Jumbo](https://www.jumbo.com/producten/hak-rode-kool-met-stukjes-peer-355-g-361470POT) | EUR 2,29 | EUR 6,45 | 02-05-2026, 21:08 |
+| Hak Hak Rode Kool met Stukjes Peer 355 g | 0.355 kg | [Jumbo](https://www.jumbo.com/producten/hak-rode-kool-met-stukjes-peer-355-g-361470POT) | EUR 2,29 | EUR 6,45 | 02-05-2026, 21:09 |
 
 ## Hak Rode kool met stukjes peer en kaneel
 
-Laagste prijs: EUR 2,29 bij Dirk. Laagste eenheidsprijs: EUR 6,45. Winkels: 1. Laatste update: 02-05-2026, 21:08.
+Laagste prijs: EUR 2,29 bij Dirk. Laagste eenheidsprijs: EUR 6,45. Winkels: 1. Laatste update: 02-05-2026, 21:09.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| Hak Hak Rode kool met stukjes peer en kaneel 355 g | 0.355 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/hak-rode-kool-met-stukjes-peer-en-kaneel/66472) | EUR 2,29 | EUR 6,45 | 02-05-2026, 21:08 |
+| Hak Hak Rode kool met stukjes peer en kaneel 355 g | 0.355 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/hak-rode-kool-met-stukjes-peer-en-kaneel/66472) | EUR 2,29 | EUR 6,45 | 02-05-2026, 21:09 |
 
 ## Hamburger broodjes
 
@@ -928,19 +928,19 @@ Laagste prijs: EUR 5,67 bij Albert Heijn. Laagste eenheidsprijs: EUR 1,89. Winke
 
 ## Melange Jonge Bladsla & Rucola
 
-Laagste prijs: EUR 2,75 bij Jumbo. Laagste eenheidsprijs: EUR 18,33. Winkels: 1. Laatste update: 02-05-2026, 18:09.
+Laagste prijs: EUR 2,75 bij Jumbo. Laagste eenheidsprijs: EUR 18,33. Winkels: 1. Laatste update: 02-05-2026, 21:15.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| Jumbo Jumbo Melange Jonge Bladsla & Rucola 150 g | 0.15 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-melange-jonge-bladsla-rucola-150-g-362324ZK) | EUR 2,75 | EUR 18,33 | 02-05-2026, 18:09 |
+| Jumbo Jumbo Melange Jonge Bladsla & Rucola 150 g | 0.15 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-melange-jonge-bladsla-rucola-150-g-362324ZK) | EUR 2,75 | EUR 18,33 | 02-05-2026, 21:15 |
 
 ## Melange Rucola 150 g 150 GRAM
 
-Laagste prijs: EUR 2,49 bij Jumbo. Laagste eenheidsprijs: EUR 16,60. Winkels: 1. Laatste update: 02-05-2026, 18:09.
+Laagste prijs: EUR 2,49 bij Jumbo. Laagste eenheidsprijs: EUR 16,60. Winkels: 1. Laatste update: 02-05-2026, 21:15.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| Jumbo Jumbo Melange Rucola 150 g 150 GRAM | - | [Jumbo](https://www.jumbo.com/producten/jumbo-melange-rucola-150-g-362325ZK) | EUR 2,49 | EUR 16,60 | 02-05-2026, 18:09 |
+| Jumbo Jumbo Melange Rucola 150 g 150 GRAM | - | [Jumbo](https://www.jumbo.com/producten/jumbo-melange-rucola-150-g-362325ZK) | EUR 2,49 | EUR 16,60 | 02-05-2026, 21:15 |
 
 ## Mr. Big Mouth Hamburger bun brioche
 
@@ -1051,11 +1051,11 @@ Laagste prijs: EUR 17,99 bij Jumbo. Laagste eenheidsprijs: EUR 27,05. Winkels: 1
 
 ## Rucola Nootachtig & Licht Pittig
 
-Laagste prijs: EUR 1,09 bij Jumbo. Laagste eenheidsprijs: EUR 12,82. Winkels: 1. Laatste update: 02-05-2026, 18:09.
+Laagste prijs: EUR 1,09 bij Jumbo. Laagste eenheidsprijs: EUR 12,82. Winkels: 1. Laatste update: 02-05-2026, 21:15.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| Jumbo Jumbo Rucola Nootachtig & Licht Pittig 85 g | 0.085 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-rucola-nootachtig-licht-pittig-85-g-423362ZK) | EUR 1,09 | EUR 12,82 | 02-05-2026, 18:09 |
+| Jumbo Jumbo Rucola Nootachtig & Licht Pittig 85 g | 0.085 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-rucola-nootachtig-licht-pittig-85-g-423362ZK) | EUR 1,09 | EUR 12,82 | 02-05-2026, 21:15 |
 
 ## Santa Maria Nacho chips original
 

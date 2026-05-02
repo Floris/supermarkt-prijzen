@@ -1,6 +1,6 @@
 # Gehakt - 2026-05-02
 
-Gegenereerd op 02-05-2026, 21:08 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+Gegenereerd op 02-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
 
 [Terug naar dagindex](../index.md)
 
@@ -107,24 +107,24 @@ Laagste prijs: EUR 4,99 bij Albert Heijn. Laagste eenheidsprijs: EUR 9,98. Winke
 
 ## Half om half gehakt
 
-Laagste prijs: EUR 2,19 bij Albert Heijn. Laagste eenheidsprijs: EUR 8,00. Winkels: 3. Laatste update: 02-05-2026, 18:55.
+Laagste prijs: EUR 2,19 bij Albert Heijn. Laagste eenheidsprijs: EUR 8,00. Winkels: 3. Laatste update: 02-05-2026, 21:13.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| AH Biologisch AH Biologisch Half-om-half gehakt 300 g | 0.3 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi436762) | EUR 4,99 | EUR 16,63 | 02-05-2026, 18:55 |
-| AH AH Gemengd gehakt 175 g | 0.175 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi561195) | EUR 2,19 | EUR 12,51 | 02-05-2026, 18:08 |
-| AH AH Gemengd gehakt 300 g | 0.3 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi561331) | EUR 3,59 | EUR 11,97 | 02-05-2026, 18:08 |
-| AH AH Gemengd gehakt 500 g | 0.5 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi561333) | EUR 4,75 | EUR 9,50 | 02-05-2026, 18:08 |
-| AH AH Gemengd gehakt 700 g | 0.7 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi556663) | EUR 5,95 | EUR 8,50 | 02-05-2026, 18:08 |
-| AH AH Half-om-half gehakt 500 g | 0.5 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi4007) | EUR 4,75 | EUR 9,50 | 02-05-2026, 18:08 |
-| Bio+ Bio+ Half om half gehakt 300 gram 300 g | 0.3 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/bio-half-om-half-gehakt-300-gram/102729) | EUR 4,95 | EUR 16,50 | 02-05-2026, 18:08 |
-| Jumbo Jumbo Gemengd Gehakt 2 x 500g 1000 g | 1 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gemengd-gehakt-2-x-500g-649263TRA) | EUR 8,00 | EUR 8,00 | 02-05-2026, 18:08 |
-| Jumbo Jumbo Gemengd Gehakt 300 g | 0.3 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gemengd-gehakt-300-g-173435BAK) | EUR 3,59 | EUR 11,97 | 02-05-2026, 18:08 |
-| Jumbo Jumbo Gemengd Gehakt 500 g | 0.5 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gemengd-gehakt-500-g-87858BAK) | EUR 4,75 | EUR 9,50 | 02-05-2026, 18:08 |
-| Vleeschmeesters Vleeschmeesters Actie half om half gehakt 300 g | 0.3 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/vleeschmeesters-actie-half-om-half-gehakt/99257) | EUR 2,99 | EUR 9,97 | 02-05-2026, 18:08 |
-| Vleeschmeesters Vleeschmeesters Half om half gehakt 1000 gram 1 kg | 1 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/vleeschmeesters-half-om-half-gehakt-1000-gram/99057) | EUR 8,99 | EUR 8,99 | 02-05-2026, 18:08 |
-| Vleeschmeesters Vleeschmeesters Half om half gehakt 300 g | 0.3 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/vleeschmeesters-half-om-half-gehakt/99058) | EUR 3,49 | EUR 11,63 | 02-05-2026, 18:08 |
-| Vleeschmeesters Vleeschmeesters Half om half gehakt 500 g | 0.5 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/vleeschmeesters-half-om-half-gehakt/99059) | EUR 4,69 | EUR 9,38 | 02-05-2026, 18:08 |
+| AH Biologisch AH Biologisch Half-om-half gehakt 300 g | 0.3 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi436762) | EUR 4,99 | EUR 16,63 | 02-05-2026, 21:13 |
+| AH AH Gemengd gehakt 175 g | 0.175 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi561195) | EUR 2,19 | EUR 12,51 | 02-05-2026, 21:13 |
+| AH AH Gemengd gehakt 300 g | 0.3 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi561331) | EUR 3,59 | EUR 11,97 | 02-05-2026, 21:13 |
+| AH AH Gemengd gehakt 500 g | 0.5 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi561333) | EUR 4,75 | EUR 9,50 | 02-05-2026, 21:13 |
+| AH AH Gemengd gehakt 700 g | 0.7 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi556663) | EUR 5,95 | EUR 8,50 | 02-05-2026, 21:13 |
+| AH AH Half-om-half gehakt 500 g | 0.5 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi4007) | EUR 4,75 | EUR 9,50 | 02-05-2026, 21:13 |
+| Bio+ Bio+ Half om half gehakt 300 gram 300 g | 0.3 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/bio-half-om-half-gehakt-300-gram/102729) | EUR 4,95 | EUR 16,50 | 02-05-2026, 21:13 |
+| Jumbo Jumbo Gemengd Gehakt 2 x 500g 1000 g | 1 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gemengd-gehakt-2-x-500g-649263TRA) | EUR 8,00 | EUR 8,00 | 02-05-2026, 21:13 |
+| Jumbo Jumbo Gemengd Gehakt 300 g | 0.3 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gemengd-gehakt-300-g-173435BAK) | EUR 3,59 | EUR 11,97 | 02-05-2026, 21:13 |
+| Jumbo Jumbo Gemengd Gehakt 500 g | 0.5 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gemengd-gehakt-500-g-87858BAK) | EUR 4,75 | EUR 9,50 | 02-05-2026, 21:13 |
+| Vleeschmeesters Vleeschmeesters Actie half om half gehakt 300 g | 0.3 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/vleeschmeesters-actie-half-om-half-gehakt/99257) | EUR 2,99 | EUR 9,97 | 02-05-2026, 21:12 |
+| Vleeschmeesters Vleeschmeesters Half om half gehakt 1000 gram 1 kg | 1 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/vleeschmeesters-half-om-half-gehakt-1000-gram/99057) | EUR 8,99 | EUR 8,99 | 02-05-2026, 21:13 |
+| Vleeschmeesters Vleeschmeesters Half om half gehakt 300 g | 0.3 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/vleeschmeesters-half-om-half-gehakt/99058) | EUR 3,49 | EUR 11,63 | 02-05-2026, 21:13 |
+| Vleeschmeesters Vleeschmeesters Half om half gehakt 500 g | 0.5 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/vleeschmeesters-half-om-half-gehakt/99059) | EUR 4,69 | EUR 9,38 | 02-05-2026, 21:13 |
 
 ## Hamburger 8 stuks
 
@@ -137,28 +137,28 @@ Laagste prijs: EUR 9,89 bij Albert Heijn Belgie. Laagste eenheidsprijs: EUR 12,3
 
 ## Mora Hamburger
 
-Laagste prijs: EUR 4,59 bij Jumbo. Laagste eenheidsprijs: EUR 12,75. Winkels: 1. Laatste update: 02-05-2026, 18:08.
+Laagste prijs: EUR 4,59 bij Jumbo. Laagste eenheidsprijs: EUR 12,75. Winkels: 1. Laatste update: 02-05-2026, 21:12.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| Mora Mora Hamburger 4 x 90 g | 0.36 kg | [Jumbo](https://www.jumbo.com/producten/mora-hamburger-4-x-90-g-523359DS) | EUR 4,59 | EUR 12,75 | 02-05-2026, 18:08 |
+| Mora Mora Hamburger 4 x 90 g | 0.36 kg | [Jumbo](https://www.jumbo.com/producten/mora-hamburger-4-x-90-g-523359DS) | EUR 4,59 | EUR 12,75 | 02-05-2026, 21:12 |
 
 ## Mora Hamburgers 4 stuks
 
-Laagste prijs: EUR 1,87 bij Dirk. Laagste eenheidsprijs: EUR 6,68. Winkels: 1. Laatste update: 02-05-2026, 18:08.
+Laagste prijs: EUR 1,87 bij Dirk. Laagste eenheidsprijs: EUR 6,68. Winkels: 1. Laatste update: 02-05-2026, 21:12.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| Mora Mora Hamburgers 4 stuks 280 g | 0.28 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/mora-hamburgers-4-stuks/1979) | EUR 1,87 | EUR 6,68 | 02-05-2026, 18:08 |
+| Mora Mora Hamburgers 4 stuks 280 g | 0.28 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/mora-hamburgers-4-stuks/1979) | EUR 1,87 | EUR 6,68 | 02-05-2026, 21:12 |
 
 ## Mora Oven & airfryer hamburgers
 
-Laagste prijs: EUR 4,59 bij Albert Heijn. Laagste eenheidsprijs: EUR 12,75. Winkels: 2. Laatste update: 02-05-2026, 18:08.
+Laagste prijs: EUR 4,59 bij Albert Heijn. Laagste eenheidsprijs: EUR 12,75. Winkels: 2. Laatste update: 02-05-2026, 21:12.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| Mora Mora Oven & airfryer hamburgers 360 g | 0.36 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi538739) | EUR 4,59 | EUR 12,75 | 02-05-2026, 18:08 |
-| Mora Mora Oven & airfryer hamburgers 360 g | 0.36 kg | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi538739) | EUR 4,99 | EUR 13,86 | 02-05-2026, 18:08 |
+| Mora Mora Oven & airfryer hamburgers 360 g | 0.36 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi538739) | EUR 4,59 | EUR 12,75 | 02-05-2026, 21:12 |
+| Mora Mora Oven & airfryer hamburgers 360 g | 0.36 kg | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi538739) | EUR 4,99 | EUR 13,86 | 02-05-2026, 21:12 |
 
 ## Runder hamburger
 
@@ -261,29 +261,29 @@ Laagste prijs: EUR 2,99 bij Albert Heijn Belgie. Laagste eenheidsprijs: EUR 14,9
 
 ## Varkens worst
 
-Laagste prijs: EUR 2,02 bij Albert Heijn. Laagste eenheidsprijs: EUR 5,78. Winkels: 4. Laatste update: 02-05-2026, 21:08.
+Laagste prijs: EUR 2,02 bij Albert Heijn. Laagste eenheidsprijs: EUR 5,78. Winkels: 4. Laatste update: 02-05-2026, 21:12.
 
 | Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
 | --- | --- | --- | ---: | ---: | --- |
-| AH AH Gelderse gekookte worst 500 g | 0.5 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi543424) | EUR 2,89 | EUR 5,78 | 02-05-2026, 18:41 |
-| AH AH Gelderse gekookte worst 500 g | 0.5 kg | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi543424) | EUR 3,69 | EUR 7,38 | 02-05-2026, 18:41 |
+| AH AH Gelderse gekookte worst 500 g | 0.5 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi543424) | EUR 2,89 | EUR 5,78 | 02-05-2026, 21:12 |
+| AH AH Gelderse gekookte worst 500 g | 0.5 kg | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi543424) | EUR 3,69 | EUR 7,38 | 02-05-2026, 21:12 |
 | AH AH Gelderse gekookte worst ca. 205 g | 0.205 kg | [Albert Heijn (actie)](https://www.ah.nl/producten/product/wi68162) | EUR 2,02 | EUR 9,85 | 02-05-2026, 18:41 |
 | AH AH Gelderse gekookte worst grootverpakkingt 250 g | 0.25 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi132222) | EUR 2,59 | EUR 10,36 | 02-05-2026, 18:40 |
 | AH AH Gelderse gekookte worst grootverpakkingt 250 g | 0.25 kg | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi132222) | EUR 2,99 | EUR 11,96 | 02-05-2026, 18:41 |
 | AH AH Gerookte Gelderse gekookte worst 300 g | 0.3 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi80219) | EUR 2,69 | EUR 8,97 | 02-05-2026, 18:41 |
-| AH AH Gerookte Gelderse gekookte worst 300 g | 0.3 kg | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi80219) | EUR 3,09 | EUR 10,30 | 02-05-2026, 18:41 |
-| Bio+ Bio+ Varkenssaucijs 2 st. 200 g | 0.2 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/bio-varkenssaucijs-2-st/102730) | EUR 3,45 | EUR 17,25 | 02-05-2026, 21:08 |
+| AH AH Gerookte Gelderse gekookte worst 300 g | 0.3 kg | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi80219) | EUR 3,09 | EUR 10,30 | 02-05-2026, 21:12 |
+| Bio+ Bio+ Varkenssaucijs 2 st. 200 g | 0.2 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/bio-varkenssaucijs-2-st/102730) | EUR 3,45 | EUR 17,25 | 02-05-2026, 21:12 |
 | Jumbo Jumbo Fijne Cervelaat Droge Worst 250 g | 0.25 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-fijne-cervelaat-droge-worst-250-g-481817ZK) | EUR 2,89 | EUR 11,56 | 02-05-2026, 18:41 |
 | Jumbo Jumbo Fijne Cervelaat Droge Worst 500 g | 0.5 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-fijne-cervelaat-droge-worst-500-g-481653STK) | EUR 4,95 | EUR 9,90 | 02-05-2026, 18:41 |
-| Jumbo Jumbo Gekookte Worst 500 g | 0.5 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gekookte-worst-500-g-730461STK) | EUR 2,95 | EUR 5,90 | 02-05-2026, 18:08 |
+| Jumbo Jumbo Gekookte Worst 500 g | 0.5 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gekookte-worst-500-g-730461STK) | EUR 2,95 | EUR 5,90 | 02-05-2026, 21:12 |
 | Jumbo Jumbo Gelderse Gekookte Worst 260 g 260 G | 0.26 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gelderse-gekookte-worst-260-g-737835STK) | EUR 3,00 | EUR 11,54 | 02-05-2026, 18:41 |
-| Jumbo Jumbo Gelderse Gekookte Worst 300 g | 0.3 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gelderse-gekookte-worst-300-g-730463STK) | EUR 2,69 | EUR 8,97 | 02-05-2026, 18:41 |
+| Jumbo Jumbo Gelderse Gekookte Worst 300 g | 0.3 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gelderse-gekookte-worst-300-g-730463STK) | EUR 2,69 | EUR 8,97 | 02-05-2026, 21:12 |
 | Jumbo Jumbo Gelderse Gekookte Worst Voordeelverpakking ca. 200 g | 0.2 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-gelderse-gekookte-worst-voordeelverpakking-ca-200-g-737838KGR) | EUR 2,76 | EUR 13,80 | 02-05-2026, 18:41 |
 | Jumbo Jumbo Grove Braadworst Kruidnagel Varken 400g 400 g | 0.4 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-grove-braadworst-kruidnagel-varken-400g-87880BAK) | EUR 3,49 | EUR 8,73 | 02-05-2026, 21:08 |
 | Jumbo Jumbo Varken Braadworst Fijn 390 g | 0.39 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-varken-braadworst-fijn-390-g-412061BAK) | EUR 2,95 | EUR 7,56 | 02-05-2026, 21:08 |
-| Jumbo Jumbo Varkens Braadworst 2 Stuks 660 g | 0.66 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-varkens-braadworst-2-stuks-630512TRA) | EUR 4,99 | EUR 7,56 | 02-05-2026, 21:08 |
+| Jumbo Jumbo Varkens Braadworst 2 Stuks 660 g | 0.66 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-varkens-braadworst-2-stuks-630512TRA) | EUR 4,99 | EUR 7,56 | 02-05-2026, 21:12 |
 | Jumbo Jumbo Varkenssaucijs Biologisch 2 Stuks 200 g | 0.2 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-varkenssaucijs-biologisch-2-stuks-228049BAK) | EUR 3,99 | EUR 19,95 | 02-05-2026, 21:08 |
-| Vleeschmeesters Vleeschmeesters Verse worst 500 gram 500 g | 0.5 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/vleeschmeesters-verse-worst-500-gram/99047) | EUR 3,75 | EUR 7,50 | 02-05-2026, 21:08 |
+| Vleeschmeesters Vleeschmeesters Verse worst 500 gram 500 g | 0.5 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/vleeschmeesters-verse-worst-500-gram/99047) | EUR 3,75 | EUR 7,50 | 02-05-2026, 21:12 |
 
 ## Varkensworst pittige paprika bel
 

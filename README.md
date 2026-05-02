@@ -2,7 +2,7 @@
 
 Dagelijkse, human-readable export van supermarktprijzen uit Pricewatch.
 
-Laatste export: 02-05-2026, 21:08.
+Laatste export: 02-05-2026, 21:15.
 
 - [Laatste prijzen](prices/latest.md)
 - [Archief voor 2026-05-02](prices/2026-05-02.md)
