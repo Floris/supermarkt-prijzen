@@ -1,0 +1,13 @@
+# Heinz Tomaten Polpa - 2026-05-02
+
+Gegenereerd op 02-05-2026, 21:08 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+
+[Terug naar dagindex](../index.md)
+
+## Heinz Tomaten Polpa
+
+Laagste prijs: EUR 1,39 bij Jumbo. Laagste eenheidsprijs: EUR 3,48. Winkels: 1. Laatste update: 02-05-2026, 20:13.
+
+| Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
+| --- | --- | --- | ---: | ---: | --- |
+| Heinz Heinz Tomaten Polpa 400g | 0.4 kg | [Jumbo](https://www.jumbo.com/producten/heinz-tomaten-polpa-400g-753584BLK) | EUR 1,39 | EUR 3,48 | 02-05-2026, 20:13 |
