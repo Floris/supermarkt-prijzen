@@ -1,0 +1,13 @@
+# Campina Grasboter ongezouten roomboter 3-pack - 2026-05-03
+
+Gegenereerd op 03-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+
+[Terug naar dagindex](../index.md)
+
+## Campina Grasboter ongezouten roomboter 3-pack
+
+Laagste prijs: EUR 10,50 bij Albert Heijn. Laagste eenheidsprijs: EUR 3,50. Winkels: 1. Laatste update: 03-05-2026, 20:40.
+
+| Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
+| --- | --- | --- | ---: | ---: | --- |
+| Campina Campina Grasboter ongezouten roomboter 3-pack 3 stuks | 3 st | [Albert Heijn (actie)](https://www.ah.nl/producten/product/wi608394) | EUR 10,50 | EUR 3,50 | 03-05-2026, 20:40 |
