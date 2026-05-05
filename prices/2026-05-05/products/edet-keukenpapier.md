@@ -1,0 +1,13 @@
+# Edet Keukenpapier - 2026-05-05
+
+Gegenereerd op 05-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+
+[Terug naar dagindex](../index.md)
+
+## Edet Keukenpapier
+
+Laagste prijs: EUR 11,89 bij Albert Heijn. Laagste eenheidsprijs: EUR 1,49. Winkels: 1. Laatste update: 05-05-2026, 20:35.
+
+| Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
+| --- | --- | --- | ---: | ---: | --- |
+| Edet Edet Keukenpapier 8 stuks | 8 st | [Albert Heijn](https://www.ah.nl/producten/product/wi575379) | EUR 11,89 | EUR 1,49 | 05-05-2026, 20:35 |
