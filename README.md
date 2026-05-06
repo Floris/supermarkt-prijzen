@@ -2,12 +2,12 @@
 
 Dagelijkse, human-readable export van supermarktprijzen uit Pricewatch.
 
-Laatste export: 05-05-2026, 21:15.
+Laatste export: 06-05-2026, 21:15.
 
 - [Laatste prijzen](prices/latest.md)
-- [Archief voor 2026-05-05](prices/2026-05-05.md)
-- [Dagindeling voor 2026-05-05](prices/2026-05-05/index.md)
-- [Compacte JSON-index voor 2026-05-05](data/2026-05-05/index.json)
+- [Archief voor 2026-05-06](prices/2026-05-06.md)
+- [Dagindeling voor 2026-05-06](prices/2026-05-06/index.md)
+- [Compacte JSON-index voor 2026-05-06](data/2026-05-06/index.json)
 - Bron: [pricewatch.droppert.dev](https://pricewatch.droppert.dev)
 
 De bestanden worden automatisch bijgewerkt door de Pricewatch export-CronJob.
