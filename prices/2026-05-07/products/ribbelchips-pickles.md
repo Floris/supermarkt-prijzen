@@ -1,0 +1,14 @@
+# Ribbelchips pickles - 2026-05-07
+
+Gegenereerd op 07-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+
+[Terug naar dagindex](../index.md)
+
+## Ribbelchips pickles
+
+Laagste prijs: EUR 1,19 bij Albert Heijn Belgie. Laagste eenheidsprijs: EUR 4,76. Winkels: 2. Laatste update: 07-05-2026, 18:34.
+
+| Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
+| --- | --- | --- | ---: | ---: | --- |
+| AH AH Ribbelchips pickles 250 g | 0.25 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi590931) | EUR 1,35 | EUR 5,40 | 07-05-2026, 18:34 |
+| AH AH Ribbelchips pickles 250 g | 0.25 kg | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi590931) | EUR 1,19 | EUR 4,76 | 07-05-2026, 18:34 |
