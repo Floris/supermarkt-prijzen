@@ -1,0 +1,15 @@
+# Runder hamburger - 2026-05-10
+
+Gegenereerd op 10-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+
+[Terug naar dagindex](../index.md)
+
+## Runder hamburger
+
+Laagste prijs: EUR 3,39 bij Albert Heijn. Laagste eenheidsprijs: EUR 12,48. Winkels: 2. Laatste update: 10-05-2026, 20:26.
+
+| Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
+| --- | --- | --- | ---: | ---: | --- |
+| AH AH Runder hamburger 2 stuks 200 g | 0.2 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi169238) | EUR 3,39 | EUR 16,95 | 10-05-2026, 20:26 |
+| AH AH Runder hamburger 4 stuks 400 g | 0.4 kg | [Albert Heijn](https://www.ah.nl/producten/product/wi103377) | EUR 4,99 | EUR 12,48 | 10-05-2026, 20:26 |
+| Jumbo Jumbo Biologisch Hamburger Rund 2 Stuks 180 g | 0.18 kg | [Jumbo](https://www.jumbo.com/producten/jumbo-biologisch-hamburger-rund-2-stuks-340705TRA) | EUR 4,39 | EUR 24,39 | 10-05-2026, 20:26 |
