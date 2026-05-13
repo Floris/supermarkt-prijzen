@@ -1,0 +1,15 @@
+# IJsbergsla Per stuk - 2026-05-13
+
+Gegenereerd op 13-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+
+[Terug naar dagindex](../index.md)
+
+## IJsbergsla Per stuk
+
+Laagste prijs: EUR 1,09 bij Albert Heijn Belgie. Laagste eenheidsprijs: -. Winkels: 3. Laatste update: 13-05-2026, 18:16.
+
+| Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
+| --- | --- | --- | ---: | ---: | --- |
+| AH AH Ijsbergsla per stuk | - | [Albert Heijn](https://www.ah.nl/producten/product/wi4099) | EUR 1,19 | - | 13-05-2026, 18:16 |
+| AH AH Ijsbergsla per stuk | - | [Albert Heijn Belgie](https://www.ah.be/producten/product/wi4099) | EUR 1,09 | - | 13-05-2026, 18:16 |
+| IJsbergsla Per stuk | - | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/ijsbergsla/4495) | EUR 1,09 | - | 13-05-2026, 18:16 |

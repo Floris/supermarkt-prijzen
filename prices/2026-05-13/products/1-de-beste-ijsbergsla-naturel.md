@@ -1,0 +1,13 @@
+# 1 de Beste IJsbergsla naturel - 2026-05-13
+
+Gegenereerd op 13-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+
+[Terug naar dagindex](../index.md)
+
+## 1 de Beste IJsbergsla naturel
+
+Laagste prijs: EUR 0,89 bij Dirk. Laagste eenheidsprijs: EUR 4,45. Winkels: 1. Laatste update: 13-05-2026, 18:16.
+
+| Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
+| --- | --- | --- | ---: | ---: | --- |
+| 1 de Beste 1 de Beste IJsbergsla naturel 200 g | 0.2 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/1-de-beste-ijsbergsla-naturel/43357) | EUR 0,89 | EUR 4,45 | 13-05-2026, 18:16 |

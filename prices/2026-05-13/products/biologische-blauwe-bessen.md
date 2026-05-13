@@ -1,0 +1,13 @@
+# Biologische blauwe bessen - 2026-05-13
+
+Gegenereerd op 13-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+
+[Terug naar dagindex](../index.md)
+
+## Biologische blauwe bessen
+
+Laagste prijs: EUR 3,49 bij Dirk. Laagste eenheidsprijs: EUR 17,45. Winkels: 1. Laatste update: 13-05-2026, 18:20.
+
+| Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
+| --- | --- | --- | ---: | ---: | --- |
+| Biologische blauwe bessen 200 g | 0.2 kg | [Dirk](https://www.dirk.nl/boodschappen/zoeken/producten/biologische-blauwe-bessen/101867) | EUR 3,49 | EUR 17,45 | 13-05-2026, 18:20 |

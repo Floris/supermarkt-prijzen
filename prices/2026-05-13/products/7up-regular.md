@@ -1,0 +1,13 @@
+# 7UP Regular - 2026-05-13
+
+Gegenereerd op 13-05-2026, 21:15 vanuit [pricewatch.droppert.dev](https://pricewatch.droppert.dev).
+
+[Terug naar dagindex](../index.md)
+
+## 7UP Regular
+
+Laagste prijs: EUR 3,19 bij Jumbo. Laagste eenheidsprijs: EUR 3,19. Winkels: 1. Laatste update: 13-05-2026, 19:26.
+
+| Variant | Verpakking | Winkel | Prijs | Eenheidsprijs | Gezien |
+| --- | --- | --- | ---: | ---: | --- |
+| 7-Up 7UP Regular 4x250ML | 1 l | [Jumbo](https://www.jumbo.com/producten/7up-regular-4x250ml-751327DS) | EUR 3,19 | EUR 3,19 | 13-05-2026, 19:26 |
